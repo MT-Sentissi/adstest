@@ -1,0 +1,16 @@
+{
+  "name": "adstest",
+  "dependencies": {
+    "gulp": "3.8.11"
+  },
+  "devDependencies": {
+    "lithium-sdk": "0.0.4"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lithiumtech/adstest.git"
+  }
+}
