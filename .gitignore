@@ -5,3 +5,8 @@ README.md
 gitsync.bat
 gitlisubmit.bat
 gitcommit.bat
+package.json
+template.server.conf
+sdk.conf.json
+plugin.lar
+gulpfile.js 
